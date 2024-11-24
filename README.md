@@ -1,6 +1,6 @@
-***About project
-
-***How to run
+# About project
+# Changelog
+ # How to run
 
 ***Chalnges
 
